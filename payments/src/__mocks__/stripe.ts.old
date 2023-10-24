@@ -1,0 +1,9 @@
+// import jest from 'jest';
+
+// const stripe = {
+//     charges: {
+//         create: jest.fn().mockResolvedValue({})
+//     }
+// };
+
+// export default stripe;
